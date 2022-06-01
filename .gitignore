@@ -1,0 +1,21 @@
+.vscode/
+mesh/
+results/
+saved_models/
+*__pycache__/
+best_model/
+*.pyc
+*.png
+models/
+*.csv
+*.model
+*.log
+# *.msh
+*.h5
+*.xdmf
+*.pkl
+*.xml
+*.geo*
+*.tar
+*.tar.gz
+*.DS_Store
