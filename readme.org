@@ -1,1 +1,4 @@
 #+title: DAFS Fluid
+This repository contains codes for our paper "An Embedded Feature Selection Framework for Control".
+
+If you find this work useful, please cite our works.
